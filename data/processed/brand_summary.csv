@@ -1,0 +1,5 @@
+brand,products_tracked,avg_price,avg_list_price,avg_discount_pct,avg_rating,total_review_count,avg_sentiment_score,value_for_money_score,top_praise_themes,top_complaint_themes,positive_review_share,negative_review_share,durability_negative_share
+American Tourister,10,3139.0,9193.0,65.441,4.16,57569,0.6018600000000001,76.9337,read | stars | price | money | sturdy,american | tourister | video | read | stars,0.7875,0.1125,0.03289473684210526
+Safari,10,2371.0,11278.9,78.31800000000001,4.07,168791,0.8267275,91.772475,stars | read | value | money | price,read | stars | video | budget | live,0.8875,0.075,0.009389671361502348
+Skybags,10,2108.254,6598.6,67.7,4.24,58246,0.59346875,80.3428025,read | stars | price | video | looks,read | stars | buy | hai | pathetic,0.775,0.1875,0.02564102564102564
+VIP,10,3948.3,11974.0,67.513,4.15,1608,0.5076748214285713,70.51559107142857,read | stars | suitcase | weight | lock,read | stars | keys | packing | appear,0.8166666666666667,0.18333333333333332,0.027210884353741496
